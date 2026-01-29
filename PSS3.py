@@ -1,8 +1,3 @@
-"""
-UAS-DTU Search and Rescue - OPTIMIZED Image Processor
-Enhanced with better detection algorithms and priority-based assignment
-"""
-
 import cv2
 import numpy as np
 import math
