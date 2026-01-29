@@ -1,0 +1,30 @@
+{
+  "image": "5.png",
+  "casualty_counts": [
+    1,
+    1,
+    0
+  ],
+  "casualty_details": [
+    [
+      [
+        2,
+        2
+      ]
+    ],
+    [
+      [
+        3,
+        1
+      ]
+    ],
+    []
+  ],
+  "camp_priorities": [
+    4,
+    3,
+    0
+  ],
+  "total_priority": 7,
+  "average_priority": 3.5
+}

@@ -1,0 +1,378 @@
+{
+  "timestamp": "2026-01-27 23:52:29",
+  "total_images": 10,
+  "images": [
+    {
+      "image_name": "2.png",
+      "segmented_image": "C:\\Users\\user\\Documents\\uas_dtu_project\\images\\outputs\\segmented\\2_segmented.png",
+      "result_image": "C:\\Users\\user\\Documents\\uas_dtu_project\\images\\outputs\\results\\2_results.png",
+      "casualties_per_camp": {
+        "blue": [],
+        "pink": [],
+        "grey": [
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            1
+          ]
+        ]
+      },
+      "count_per_camp": {
+        "blue": 0,
+        "pink": 0,
+        "grey": 2
+      },
+      "priority_per_camp": {
+        "blue": 0,
+        "pink": 0,
+        "grey": 7
+      },
+      "total_priority": 7,
+      "average_priority": 3.5,
+      "total_casualties": 2
+    },
+    {
+      "image_name": "3.png",
+      "segmented_image": "C:\\Users\\user\\Documents\\uas_dtu_project\\images\\outputs\\segmented\\3_segmented.png",
+      "result_image": "C:\\Users\\user\\Documents\\uas_dtu_project\\images\\outputs\\results\\3_results.png",
+      "casualties_per_camp": {
+        "blue": [],
+        "pink": [],
+        "grey": [
+          [
+            3,
+            1
+          ],
+          [
+            1,
+            2
+          ]
+        ]
+      },
+      "count_per_camp": {
+        "blue": 0,
+        "pink": 0,
+        "grey": 2
+      },
+      "priority_per_camp": {
+        "blue": 0,
+        "pink": 0,
+        "grey": 5
+      },
+      "total_priority": 5,
+      "average_priority": 2.5,
+      "total_casualties": 2
+    },
+    {
+      "image_name": "8.png",
+      "segmented_image": "C:\\Users\\user\\Documents\\uas_dtu_project\\images\\outputs\\segmented\\8_segmented.png",
+      "result_image": "C:\\Users\\user\\Documents\\uas_dtu_project\\images\\outputs\\results\\8_results.png",
+      "casualties_per_camp": {
+        "blue": [],
+        "pink": [],
+        "grey": [
+          [
+            3,
+            1
+          ],
+          [
+            1,
+            2
+          ]
+        ]
+      },
+      "count_per_camp": {
+        "blue": 0,
+        "pink": 0,
+        "grey": 2
+      },
+      "priority_per_camp": {
+        "blue": 0,
+        "pink": 0,
+        "grey": 5
+      },
+      "total_priority": 5,
+      "average_priority": 2.5,
+      "total_casualties": 2
+    },
+    {
+      "image_name": "9.png",
+      "segmented_image": "C:\\Users\\user\\Documents\\uas_dtu_project\\images\\outputs\\segmented\\9_segmented.png",
+      "result_image": "C:\\Users\\user\\Documents\\uas_dtu_project\\images\\outputs\\results\\9_results.png",
+      "casualties_per_camp": {
+        "blue": [],
+        "pink": [],
+        "grey": [
+          [
+            3,
+            1
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      },
+      "count_per_camp": {
+        "blue": 0,
+        "pink": 0,
+        "grey": 2
+      },
+      "priority_per_camp": {
+        "blue": 0,
+        "pink": 0,
+        "grey": 5
+      },
+      "total_priority": 5,
+      "average_priority": 2.5,
+      "total_casualties": 2
+    },
+    {
+      "image_name": "1.png",
+      "segmented_image": "C:\\Users\\user\\Documents\\uas_dtu_project\\images\\outputs\\segmented\\1_segmented.png",
+      "result_image": "C:\\Users\\user\\Documents\\uas_dtu_project\\images\\outputs\\results\\1_results.png",
+      "casualties_per_camp": {
+        "blue": [],
+        "pink": [],
+        "grey": [
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      },
+      "count_per_camp": {
+        "blue": 0,
+        "pink": 0,
+        "grey": 2
+      },
+      "priority_per_camp": {
+        "blue": 0,
+        "pink": 0,
+        "grey": 4
+      },
+      "total_priority": 4,
+      "average_priority": 2.0,
+      "total_casualties": 2
+    },
+    {
+      "image_name": "4.png",
+      "segmented_image": "C:\\Users\\user\\Documents\\uas_dtu_project\\images\\outputs\\segmented\\4_segmented.png",
+      "result_image": "C:\\Users\\user\\Documents\\uas_dtu_project\\images\\outputs\\results\\4_results.png",
+      "casualties_per_camp": {
+        "blue": [],
+        "pink": [],
+        "grey": [
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      },
+      "count_per_camp": {
+        "blue": 0,
+        "pink": 0,
+        "grey": 2
+      },
+      "priority_per_camp": {
+        "blue": 0,
+        "pink": 0,
+        "grey": 3
+      },
+      "total_priority": 3,
+      "average_priority": 1.5,
+      "total_casualties": 2
+    },
+    {
+      "image_name": "5.png",
+      "segmented_image": "C:\\Users\\user\\Documents\\uas_dtu_project\\images\\outputs\\segmented\\5_segmented.png",
+      "result_image": "C:\\Users\\user\\Documents\\uas_dtu_project\\images\\outputs\\results\\5_results.png",
+      "casualties_per_camp": {
+        "blue": [],
+        "pink": [],
+        "grey": [
+          [
+            2,
+            1
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      },
+      "count_per_camp": {
+        "blue": 0,
+        "pink": 0,
+        "grey": 2
+      },
+      "priority_per_camp": {
+        "blue": 0,
+        "pink": 0,
+        "grey": 3
+      },
+      "total_priority": 3,
+      "average_priority": 1.5,
+      "total_casualties": 2
+    },
+    {
+      "image_name": "6.png",
+      "segmented_image": "C:\\Users\\user\\Documents\\uas_dtu_project\\images\\outputs\\segmented\\6_segmented.png",
+      "result_image": "C:\\Users\\user\\Documents\\uas_dtu_project\\images\\outputs\\results\\6_results.png",
+      "casualties_per_camp": {
+        "blue": [],
+        "pink": [],
+        "grey": [
+          [
+            2,
+            1
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      },
+      "count_per_camp": {
+        "blue": 0,
+        "pink": 0,
+        "grey": 2
+      },
+      "priority_per_camp": {
+        "blue": 0,
+        "pink": 0,
+        "grey": 3
+      },
+      "total_priority": 3,
+      "average_priority": 1.5,
+      "total_casualties": 2
+    },
+    {
+      "image_name": "7.png",
+      "segmented_image": "C:\\Users\\user\\Documents\\uas_dtu_project\\images\\outputs\\segmented\\7_segmented.png",
+      "result_image": "C:\\Users\\user\\Documents\\uas_dtu_project\\images\\outputs\\results\\7_results.png",
+      "casualties_per_camp": {
+        "blue": [],
+        "pink": [],
+        "grey": [
+          [
+            3,
+            1
+          ],
+          [
+            1,
+            0
+          ]
+        ]
+      },
+      "count_per_camp": {
+        "blue": 0,
+        "pink": 0,
+        "grey": 2
+      },
+      "priority_per_camp": {
+        "blue": 0,
+        "pink": 0,
+        "grey": 3
+      },
+      "total_priority": 3,
+      "average_priority": 1.5,
+      "total_casualties": 2
+    },
+    {
+      "image_name": "10.png",
+      "segmented_image": "C:\\Users\\user\\Documents\\uas_dtu_project\\images\\outputs\\segmented\\10_segmented.png",
+      "result_image": "C:\\Users\\user\\Documents\\uas_dtu_project\\images\\outputs\\results\\10_results.png",
+      "casualties_per_camp": {
+        "blue": [],
+        "pink": [],
+        "grey": [
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            0
+          ]
+        ]
+      },
+      "count_per_camp": {
+        "blue": 0,
+        "pink": 0,
+        "grey": 2
+      },
+      "priority_per_camp": {
+        "blue": 0,
+        "pink": 0,
+        "grey": 1
+      },
+      "total_priority": 1,
+      "average_priority": 0.5,
+      "total_casualties": 2
+    }
+  ],
+  "summary_by_priority": [
+    {
+      "image_name": "2.png",
+      "average_priority": 3.5,
+      "total_casualties": 2
+    },
+    {
+      "image_name": "3.png",
+      "average_priority": 2.5,
+      "total_casualties": 2
+    },
+    {
+      "image_name": "8.png",
+      "average_priority": 2.5,
+      "total_casualties": 2
+    },
+    {
+      "image_name": "9.png",
+      "average_priority": 2.5,
+      "total_casualties": 2
+    },
+    {
+      "image_name": "1.png",
+      "average_priority": 2.0,
+      "total_casualties": 2
+    },
+    {
+      "image_name": "4.png",
+      "average_priority": 1.5,
+      "total_casualties": 2
+    },
+    {
+      "image_name": "5.png",
+      "average_priority": 1.5,
+      "total_casualties": 2
+    },
+    {
+      "image_name": "6.png",
+      "average_priority": 1.5,
+      "total_casualties": 2
+    },
+    {
+      "image_name": "7.png",
+      "average_priority": 1.5,
+      "total_casualties": 2
+    },
+    {
+      "image_name": "10.png",
+      "average_priority": 0.5,
+      "total_casualties": 2
+    }
+  ]
+}

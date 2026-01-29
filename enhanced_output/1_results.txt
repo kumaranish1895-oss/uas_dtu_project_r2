@@ -1,0 +1,27 @@
+Image: 1.png
+Total casualties detected: 4
+Camps detected: ['pink', 'blue', 'grey']
+
+CASUALTY ASSIGNMENTS:
+--------------------------------------------------
+
+BLUE Camp:
+  Casualties assigned: 2
+  Total priority: 5
+  Casualty details: [[3, 1], [1, 2]]
+
+PINK Camp:
+  Casualties assigned: 1
+  Total priority: 2
+  Casualty details: [[1, 2]]
+
+GREY Camp:
+  Casualties assigned: 1
+  Total priority: 6
+  Casualty details: [[3, 2]]
+
+==================================================
+SUMMARY STATISTICS:
+==================================================
+Total priority: 13
+Average priority (Rescue Ratio): 3.25

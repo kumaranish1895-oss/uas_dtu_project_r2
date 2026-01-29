@@ -1,0 +1,280 @@
+UAS-DTU Search and Rescue Task - Results Summary
+============================================================
+
+IMAGES SORTED BY RESCUE RATIO (Highest to Lowest):
+------------------------------------------------------------
+1. 2.png
+   Average Priority (Rescue Ratio): 3.50
+   Total Casualties: 2
+   Total Priority: 7
+
+2. 3.png
+   Average Priority (Rescue Ratio): 2.50
+   Total Casualties: 2
+   Total Priority: 5
+
+3. 8.png
+   Average Priority (Rescue Ratio): 2.50
+   Total Casualties: 2
+   Total Priority: 5
+
+4. 9.png
+   Average Priority (Rescue Ratio): 2.50
+   Total Casualties: 2
+   Total Priority: 5
+
+5. 1.png
+   Average Priority (Rescue Ratio): 2.00
+   Total Casualties: 2
+   Total Priority: 4
+
+6. 4.png
+   Average Priority (Rescue Ratio): 1.50
+   Total Casualties: 2
+   Total Priority: 3
+
+7. 5.png
+   Average Priority (Rescue Ratio): 1.50
+   Total Casualties: 2
+   Total Priority: 3
+
+8. 6.png
+   Average Priority (Rescue Ratio): 1.50
+   Total Casualties: 2
+   Total Priority: 3
+
+9. 7.png
+   Average Priority (Rescue Ratio): 1.50
+   Total Casualties: 2
+   Total Priority: 3
+
+10. 10.png
+   Average Priority (Rescue Ratio): 0.50
+   Total Casualties: 2
+   Total Priority: 1
+
+
+============================================================
+DETAILED RESULTS FOR EACH IMAGE:
+============================================================
+
+Image: 1.png
+----------------------------------------
+Casualties assigned to each camp:
+  Blue camp: []
+  Pink camp: []
+  Grey camp: [[2, 1], [2, 1]]
+
+Count of casualties per camp:
+  Blue: 0
+  Pink: 0
+  Grey: 2
+
+Total priority per camp:
+  Blue: 0
+  Pink: 0
+  Grey: 4
+
+Total priority: 4
+Average priority: 2.00
+
+========================================
+
+Image: 10.png
+----------------------------------------
+Casualties assigned to each camp:
+  Blue camp: []
+  Pink camp: []
+  Grey camp: [[1, 1], [1, 0]]
+
+Count of casualties per camp:
+  Blue: 0
+  Pink: 0
+  Grey: 2
+
+Total priority per camp:
+  Blue: 0
+  Pink: 0
+  Grey: 1
+
+Total priority: 1
+Average priority: 0.50
+
+========================================
+
+Image: 2.png
+----------------------------------------
+Casualties assigned to each camp:
+  Blue camp: []
+  Pink camp: []
+  Grey camp: [[2, 2], [3, 1]]
+
+Count of casualties per camp:
+  Blue: 0
+  Pink: 0
+  Grey: 2
+
+Total priority per camp:
+  Blue: 0
+  Pink: 0
+  Grey: 7
+
+Total priority: 7
+Average priority: 3.50
+
+========================================
+
+Image: 3.png
+----------------------------------------
+Casualties assigned to each camp:
+  Blue camp: []
+  Pink camp: []
+  Grey camp: [[3, 1], [1, 2]]
+
+Count of casualties per camp:
+  Blue: 0
+  Pink: 0
+  Grey: 2
+
+Total priority per camp:
+  Blue: 0
+  Pink: 0
+  Grey: 5
+
+Total priority: 5
+Average priority: 2.50
+
+========================================
+
+Image: 4.png
+----------------------------------------
+Casualties assigned to each camp:
+  Blue camp: []
+  Pink camp: []
+  Grey camp: [[1, 2], [1, 1]]
+
+Count of casualties per camp:
+  Blue: 0
+  Pink: 0
+  Grey: 2
+
+Total priority per camp:
+  Blue: 0
+  Pink: 0
+  Grey: 3
+
+Total priority: 3
+Average priority: 1.50
+
+========================================
+
+Image: 5.png
+----------------------------------------
+Casualties assigned to each camp:
+  Blue camp: []
+  Pink camp: []
+  Grey camp: [[2, 1], [1, 1]]
+
+Count of casualties per camp:
+  Blue: 0
+  Pink: 0
+  Grey: 2
+
+Total priority per camp:
+  Blue: 0
+  Pink: 0
+  Grey: 3
+
+Total priority: 3
+Average priority: 1.50
+
+========================================
+
+Image: 6.png
+----------------------------------------
+Casualties assigned to each camp:
+  Blue camp: []
+  Pink camp: []
+  Grey camp: [[2, 1], [1, 1]]
+
+Count of casualties per camp:
+  Blue: 0
+  Pink: 0
+  Grey: 2
+
+Total priority per camp:
+  Blue: 0
+  Pink: 0
+  Grey: 3
+
+Total priority: 3
+Average priority: 1.50
+
+========================================
+
+Image: 7.png
+----------------------------------------
+Casualties assigned to each camp:
+  Blue camp: []
+  Pink camp: []
+  Grey camp: [[3, 1], [1, 0]]
+
+Count of casualties per camp:
+  Blue: 0
+  Pink: 0
+  Grey: 2
+
+Total priority per camp:
+  Blue: 0
+  Pink: 0
+  Grey: 3
+
+Total priority: 3
+Average priority: 1.50
+
+========================================
+
+Image: 8.png
+----------------------------------------
+Casualties assigned to each camp:
+  Blue camp: []
+  Pink camp: []
+  Grey camp: [[3, 1], [1, 2]]
+
+Count of casualties per camp:
+  Blue: 0
+  Pink: 0
+  Grey: 2
+
+Total priority per camp:
+  Blue: 0
+  Pink: 0
+  Grey: 5
+
+Total priority: 5
+Average priority: 2.50
+
+========================================
+
+Image: 9.png
+----------------------------------------
+Casualties assigned to each camp:
+  Blue camp: []
+  Pink camp: []
+  Grey camp: [[3, 1], [2, 1]]
+
+Count of casualties per camp:
+  Blue: 0
+  Pink: 0
+  Grey: 2
+
+Total priority per camp:
+  Blue: 0
+  Pink: 0
+  Grey: 5
+
+Total priority: 5
+Average priority: 2.50
+
+========================================
+
